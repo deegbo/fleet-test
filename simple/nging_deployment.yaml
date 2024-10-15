@@ -33,4 +33,4 @@ spec:
                   - containerPort: 80
     name: nginx.yaml
   targets:
-  - clusterName: local
+  - clusterName: default
